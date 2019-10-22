@@ -5,3 +5,4 @@ class Person
 end   
 
 prince = Person.new
+person.talk
